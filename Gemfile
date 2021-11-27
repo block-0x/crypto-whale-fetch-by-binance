@@ -33,3 +33,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # scheduling
 gem 'rufus-scheduler', '3.0.2'
+
+# env
+gem 'dotenv-rails', '~> 2.1', '>= 2.1.1'
