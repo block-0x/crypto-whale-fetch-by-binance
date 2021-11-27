@@ -38,4 +38,4 @@
 yarn-debug.log*
 .yarn-integrity
 
-.app/services/*
+app/services/*
